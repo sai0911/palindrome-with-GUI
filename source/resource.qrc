@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>img/cirrus_thumb.jpg</file>
+    </qresource>
+</RCC>
